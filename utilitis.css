@@ -1,0 +1,25 @@
+.text-center {
+    text-align: center;
+  }
+  
+  .bg-yellow {
+    background-color: yellow;
+  }
+  
+  .mx-auto {
+    margin: auto;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .items-center {
+    align-items: center;
+    justify-content: center;
+  }
+
